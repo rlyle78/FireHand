@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WatchFaceDavid1" size="100.000000 77.077179" />
+    <ImageTarget name="WatchFaceDavid" size="100.000000 90.644447" />
+    <ImageTarget name="XWatchFace" size="100.000000 90.625000" />
+    <ImageTarget name="Moto360" size="100.000000 106.863594" />
+    <ImageTarget name="WatchFace" size="100.000000 98.735954" />
+    <ImageTarget name="IMG_20150514_163655-2-2" size="10.000000 5.775587" />
+    <ImageTarget name="IMG_20150514_153310-01" size="100.000000 82.052979" />
+    <ImageTarget name="IMG_20150510_160359_PerfectlyClear-01" size="100.000000 73.497467" />
+  </Tracking>
+</QCARConfig>
